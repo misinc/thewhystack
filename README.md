@@ -1,2 +1,2 @@
-# thewhystack
+# thewhystack.com
 forwarding to jdouraghy
